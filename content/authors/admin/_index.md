@@ -72,4 +72,4 @@ user_groups:
 
 I am a Senior Research Analyst at the NY Fed, working with the dynamic stochastic general equilibrium (DSGE) team on academic research, policy analysis, forecasting, and model development. 
 
-I also develop and maintain the [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) package (in the open-source Julia programming language) for solving, estimating, and forecasting DSGE models. I am also a developer of the [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl) package, which implements variants of the Sequential Monte Carlo (SMC) sampling algorithm the approximation of posterior distributions. 
+I also develop and maintain the [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) package (in the open-source Julia programming language) for solving, estimating, and forecasting DSGE models, as well as the [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl) package, which implements variants of the Sequential Monte Carlo (SMC) sampling algorithm for approximation of posterior distributions. 
