@@ -5,3 +5,7 @@
 	path = rsarfati.github.io
 	url = https://github.com/rsarfati/rsarfati.github.io.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/rsarfati/rsarfati.github.io.git
+	branch = master
