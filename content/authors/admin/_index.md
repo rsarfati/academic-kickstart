@@ -15,21 +15,22 @@ role: Senior Research Analyst
 # Organizations/Affiliations
 organizations:
 - name: Federal Reserve Bank of New York
-  url: ""
+  url: "https://www.newyorkfed.org/research"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Senior Research Analyst on the dynamic stochastic general equilibrium (DSGE) team in the Macroeconomic and Monetary Studies function at the NY Fed.
 
 interests:
-- IO
 - Macroeconomics
+- Development
 - Computational Economics
 - Market Design
 - Economic Theory
+- IO
 
 education:
   courses:
-  - course: Non-Degree Graduate Studies in Mathematics
+  - course: Graduate Studies in Mathematics
     institution: New York University
     year: 2018-2019
   - course: Sc.B in Mathematics and Computer Science
@@ -69,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Research Analyst on the dynamic stochastic general equilibrium (DSGE) team in the Macroeconomic and Monetary Studies function at the NY Fed.
+I am a Senior Research Analyst at the NY Fed, working with the dynamic stochastic general equilibrium (DSGE) team on academic research, policy analysis, forecasting, and model development. 
+
+I also develop and maintain the [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) package (in the open-source Julia programming language) for solving, estimating, and forecasting DSGE models. I am also a developer of the [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl) package, which implements variants of the Sequential Monte Carlo (SMC) sampling algorithm the approximation of posterior distributions. 
