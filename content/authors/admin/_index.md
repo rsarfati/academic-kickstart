@@ -23,16 +23,16 @@ bio: I am a Senior Research Analyst on the dynamic stochastic general equilibriu
 interests:
 - Macroeconomics
 - Development
+- Economic Theory
 - Computational Economics
 - Market Design
-- Economic Theory
-- IO
+- Industrial Organization
 
 education:
   courses:
   - course: Graduate Studies in Mathematics
     institution: New York University
-    year: 2018-2019
+    year: 2018-20
   - course: Sc.B in Mathematics and Computer Science
     institution: Brown University
     year: 2018
@@ -72,4 +72,4 @@ user_groups:
 
 I am a Senior Research Analyst at the NY Fed, working with the dynamic stochastic general equilibrium (DSGE) team on academic research, policy analysis, forecasting, and model development. 
 
-I also develop and maintain the [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) package (in the open-source Julia programming language) for solving, estimating, and forecasting DSGE models, as well as the [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl) package, which implements variants of the Sequential Monte Carlo (SMC) sampling algorithm for approximation of posterior distributions. 
+I am also a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements variants of the sequential Monte Carlo (SMC) sampling algorithm for approximation of posterior distributions. 
