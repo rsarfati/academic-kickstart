@@ -74,4 +74,4 @@ I am a senior research analyst at the NY Fed, working with the dynamic stochasti
 
 I am also a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements variants of the sequential Monte Carlo (SMC) sampling algorithm for approximation of posterior distributions. 
 
-###### *All views expressed are my own, and do not reflect those of the Federal Reserve Bank of New York nor Federal Reserve System.*
+*All views expressed are my own, and do not reflect those of the Federal Reserve Bank of New York nor Federal Reserve System.*
