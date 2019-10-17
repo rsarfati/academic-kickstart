@@ -26,7 +26,7 @@ interests:
 - Economic Theory
 - Computational Economics
 - Market Design
-- Industrial Organization
+- International Economics
 
 education:
   courses:
@@ -54,6 +54,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rsarfati
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/reca-sarfati/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -72,6 +76,6 @@ user_groups:
 
 I am a senior research analyst at the NY Fed, working with the dynamic stochastic general equilibrium (DSGE) team on academic research, policy analysis, forecasting, and model development. 
 
-I am also a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements variants of the sequential Monte Carlo (SMC) sampling algorithm for approximation of posterior distributions. 
+I am also a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements sequential Monte Carlo (SMC) sampling for approximation of posterior distributions. 
 
 *All views expressed are my own, and do not reflect those of the Federal Reserve Bank of New York nor Federal Reserve System.*
