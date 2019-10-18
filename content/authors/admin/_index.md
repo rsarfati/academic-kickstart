@@ -52,7 +52,7 @@ social:
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: lightbulb
-  icon_pack: fab
+  icon_pack: fas
   link: https://ideas.repec.org/f/psa1745.html
 - icon: linkedin
   icon_pack: fab
