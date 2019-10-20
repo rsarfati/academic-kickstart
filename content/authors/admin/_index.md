@@ -33,7 +33,7 @@ education:
   - course: Graduate Studies in Mathematics
     institution: New York University
     year: 2018-20
-  - course: Sc.B. in Mathematics and Computer Science, *magna cum laude*
+  - course: Sc.B. in Mathematics and Computer Science (magna cum laude)
     institution: Brown University
     year: 2018
 
