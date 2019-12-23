@@ -22,6 +22,7 @@ bio: I am a Senior Research Analyst on the dynamic stochastic general equilibriu
 
 interests:
 - Macroeconomics
+- Labor
 - Development
 - Economic Theory
 - Market Design
