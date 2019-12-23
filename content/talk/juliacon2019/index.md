@@ -11,8 +11,8 @@ address:
   postcode: '21201'
   country: United States
 
-summary: "Discussion of heterogeneous agent modeling in Julia."
-abstract: "This talk provides an overview of the Federal Reserve Bank of New York's heterogeneous agent dynamic stochastic general equilibrium (DSGE) model development process in open-source computing language, Julia."
+#summary: ""#Discussion of heterogeneous agent modeling in Julia."
+abstract: "This talk provides an overview of the Federal Reserve Bank of New York's heterogeneous agent dynamic stochastic general equilibrium (DSGE) model development process in the open-source computing language, Julia."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

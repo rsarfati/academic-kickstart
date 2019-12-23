@@ -18,7 +18,7 @@ organizations:
   url: "https://www.newyorkfed.org/research"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Senior Research Analyst on the dynamic stochastic general equilibrium (DSGE) team in the Macroeconomic and Monetary Studies function at the NY Fed. Views expressed are my own.
+bio: I am a Senior Research Analyst on the dynamic stochastic general equilibrium (DSGE) team in the Macroeconomic and Monetary Studies function at the NY Fed. *Views expressed are my own*.
 
 interests:
 - Macroeconomics
