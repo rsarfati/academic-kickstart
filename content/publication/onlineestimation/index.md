@@ -1,11 +1,11 @@
 ---
 title: "Online Estimation of DSGE Models"
 authors:
-- admin
 - Michael Cai
 - Marco Del Negro
 - Edward Herbst
 - Ethan Matlin
+- admin
 - Frank Schorfheide
 date: "2019-07-22T00:00:00Z"
 doi: "10.2139/ssrn.3426004"
@@ -37,9 +37,11 @@ tags:
 - Monetary Policy
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: "PIER Working Paper"
+  url: "https://economics.sas.upenn.edu/pier/working-paper/2019/online-estimation-dsge-models"
+- name: "NY Fed Staff Report"
+  url: "https://www.newyorkfed.org/research/staff_reports/sr893.html"
 url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3426004"
 url_code: ''
 url_dataset: ''
@@ -61,7 +63,9 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+#- model-constructors
+- smc
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -70,6 +74,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
