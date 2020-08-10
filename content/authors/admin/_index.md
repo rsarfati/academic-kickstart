@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Analyst
+role: Ph.D. Student in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Federal Reserve Bank of New York
-  url: "https://www.newyorkfed.org/research"
+- name: Massachusetts Institute of Technology (MIT)
+  url: "https://economics.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Senior Research Analyst on the dynamic stochastic general equilibrium (DSGE) team in the Macroeconomic and Monetary Studies function at the NY Fed. *Views expressed are my own*.
+bio: I am an Economics Ph.D. candidate at MIT, and former Senior Research Analyst on the dynamic stochastic general equilibrium (DSGE) team in the Macroeconomic and Monetary Studies function at the NY Fed. *Views expressed are my own*.
 
 interests:
 - Macroeconomics
-- Labor
+- Theory
 - Development
-- Economic Theory
+- Trade
+- Labor
 - Market Design
 - Computation
 
 education:
   courses:
-  - course: Graduate Studies in Mathematics
-    institution: New York University
-    year: 2018-20
-  - course: Sc.B. in Mathematics and Computer Science (magna cum laude)
-    institution: Brown University
-    year: 2018
+  - course: Massachusetts Institute of Technology (MIT)
+    institution: Ph.D. in Economics, 2020-25 (expected)
+    year:
+  - course: NYU Courant Institute of Mathematical Sciences
+    institution: Non-Degree Mathematics Masters Student, 2018-20
+    year:
+  - course: Brown University
+    institution: Sc.B. in Mathematics and Computer Science (magna cum laude, Phi Beta Kappa), 2014-18
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:reca_sarfati@alumni.brown.edu"#'#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:sarfati@mit.edu"#'#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -77,8 +81,10 @@ user_groups:
 - Visitors
 ---
 
-I am a senior research analyst at the NY Fed, working with the dynamic stochastic general equilibrium (DSGE) team on academic research, policy analysis, forecasting, and model development. 
+I am a Ph.D. student in economics and [NSF Graduate Research Fellow](https://www.nsfgrfp.org/resources/about_grfp) at [MIT](https://economics.mit.edu/). Previously, I was a research analyst at the [New York Fed](https://www.newyorkfed.org/research), working with the dynamic stochastic general equilibrium (DSGE) team under [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro) on academic research, policy analysis, forecasting, and model development. 
 
-I am also a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements sequential Monte Carlo (SMC) sampling for approximation of posterior distributions. 
+I graduated from Brown University in 2018 with an Sc.B in mathematics and computer science, where I worked extensively with [Amy Greenwald](http://cs.brown.edu/people/faculty/amy/) on topics in algorithmic game theory and reinforcement learning.
+
+I am also a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models; [StateSpaceRoutines.jl](https://github.com/FRBNY-DSGE/StateSpaceRoutines.jl), which contains common filtering and smoothing algorithms for state-space models; and [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements variations of sequential Monte Carlo (SMC) sampling for the approximation of posterior distributions.
 
 *All views expressed are my own, and do not reflect those of the Federal Reserve Bank of New York nor Federal Reserve System.*

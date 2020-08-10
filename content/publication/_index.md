@@ -13,4 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-Publication is here...

@@ -1,6 +1,6 @@
 ---
 title: Model Constructors
-summary: A Julia package to build custom model types for estimation.
+summary: Julia package to build custom model types for simulation and estimation exercises.
 
 tags:
 - Bayesian Econometrics
@@ -23,18 +23,16 @@ url_slides: ""
 url_video: ""
 ---
 
-[![Build Status](https://travis-ci.com/FRBNY-DSGE/ModelConstructors.jl.svg?branch=master)](https://travis-ci.com/FRBNY-DSGE/ModelConstructors.jl) [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://frbny-dsge.github.io/ModelConstructors.jl/latest)
-
 This package contains the building blocks of model objects, such as `Parameter`, `Observable`, `Setting`, and `State` types. You may define any custom model, so long as it has parameters. The model object is used in both [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) and [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl).
 
-See `/docs/examples` for examples of how to construct your custom model, then use [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl) to estimate it (available for any type of model) and [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) to construct forecasts, shock decompositions, impulse responses, etc. (available for DSGE models).
+See `/docs/examples` for scripts demonstrating how to construct a custom model, then use [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl) to estimate it with sequential Monte Carlo - an algorithm applicable for any type of model (so long as it has free parameters). Should you build a DSGE model, you can use [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) to construct forecasts, shock decompositions, impulse responses, etc.
 
-## Installation
-`ModelConstructors.jl` is a registered Julia package in the [`General`](https://github.com/JuliaRegistries/General) registry.  To install, open your Julia REPL, type `]` (enter package manager), and run
+### Installation
+`ModelConstructors.jl` is a registered Julia package in the [general registry](https://github.com/JuliaRegistries/General).  To install, open your Julia REPL, type `]` (enter Julia's package manager), and run
 
-```julia
+```
 pkg> add ModelConstructors
 ```
 
-## Versioning
+### Versioning
 `ModelConstructors.jl` is currently compatible with Julia `v0.7`, `v1.0`, and `v1.1`.

@@ -38,9 +38,11 @@ tags:
 featured: true
 
 links:
-- name: "PIER Working Paper"
+- name: "NBER Working Paper no. 26826"
+  url: "https://www.nber.org/papers/w26826"
+- name: "PIER Working Paper no. 19-014"
   url: "https://economics.sas.upenn.edu/pier/working-paper/2019/online-estimation-dsge-models"
-- name: "NY Fed Staff Report"
+- name: "NY Fed Staff Report no. 893"
   url: "https://www.newyorkfed.org/research/staff_reports/sr893.html"
 url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3426004"
 url_code: ''
@@ -74,3 +76,10 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+
+### Presented at:
+
++ [European Seminar on Bayesian Econometrics](https://sites.google.com/view/esobe2019/) (University of St. Andrews, Scotland, *Sep. 3-4, 2019*)
++ [System Committee on Econometrics](https://www.philadelphiafed.org/research-and-data/events) (Philadelphia Fed, *Sep. 25-26, 2019*)
++ [3rd Forecasting at Central Banks Conference](https://eabcn.org/event/3rd-forecasting-central-banks-conference-bank-canada-ottawa) (Bank of Canada, *Oct. 3-4, 2019*)
++ [Conference on Computational and Financial Econometrics](http://www.cfenetwork.org/CFE2019/) (University of London, UK, *Dec. 14-16, 2019*)
