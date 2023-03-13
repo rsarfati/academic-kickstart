@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student in Economics
+role: Ph.D. Student in Economics and Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,9 @@ organizations:
 bio: I am an Economics Ph.D. candidate at MIT, and former Senior Research Analyst on the dynamic stochastic general equilibrium (DSGE) team in the Macroeconomic and Monetary Studies function at the NY Fed. *Views expressed are my own*.
 
 interests:
-- Macroeconomics
-- Theory
+- Econometrics
 - Development
+- Industrial Organization
 - Trade
 - Market Design
 - Computation
@@ -31,7 +31,7 @@ interests:
 education:
   courses:
   - course: Massachusetts Institute of Technology (MIT)
-    institution: Ph.D. in Economics, 2020-25 (expected)
+    institution: Ph.D. in Economics and Statistics, 2020-26 (expected)
     year:
   - course: NYU Courant Institute of Mathematical Sciences
     institution: Non-Degree Mathematics Masters Student, 2018-20
@@ -85,5 +85,3 @@ I am an Economics Ph.D. student and [NSF Graduate Research Fellow](https://www.n
 I graduated from [Brown University](https://cs.brown.edu/) in 2018 with an Sc.B. in mathematics and computer science, where I worked extensively with [Amy Greenwald](http://cs.brown.edu/people/faculty/amy/) on topics in algorithmic game theory and reinforcement learning.
 
 I am also a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models; [StateSpaceRoutines.jl](https://github.com/FRBNY-DSGE/StateSpaceRoutines.jl), which contains common filtering and smoothing algorithms for state-space models; and [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements variations of sequential Monte Carlo (SMC) sampling for the approximation of posterior distributions.
-
-*All views expressed are my own, and do not reflect those of the Federal Reserve Bank of New York nor Federal Reserve System.*
