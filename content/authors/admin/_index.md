@@ -25,7 +25,6 @@ interests:
 - Theory
 - Development
 - Trade
-- Labor
 - Market Design
 - Computation
 
@@ -81,9 +80,9 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in economics and [NSF Graduate Research Fellow](https://www.nsfgrfp.org/resources/about_grfp) at [MIT](https://economics.mit.edu/). Previously, I was a research analyst at the [New York Fed](https://www.newyorkfed.org/research), working with the dynamic stochastic general equilibrium (DSGE) team under [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro) on academic research, policy analysis, forecasting, and model development. 
+I am an Economics Ph.D. student and [NSF Graduate Research Fellow](https://www.nsfgrfp.org/resources/about_grfp) at [MIT](https://economics.mit.edu/). Previously, I was a research analyst at the [New York Fed](https://www.newyorkfed.org/research), working with the dynamic stochastic general equilibrium (DSGE) team under [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro) on academic research, policy analysis, forecasting, and model development. 
 
-I graduated from Brown University in 2018 with an Sc.B in mathematics and computer science, where I worked extensively with [Amy Greenwald](http://cs.brown.edu/people/faculty/amy/) on topics in algorithmic game theory and reinforcement learning.
+I graduated from [Brown University](https://cs.brown.edu/) in 2018 with an Sc.B. in mathematics and computer science, where I worked extensively with [Amy Greenwald](http://cs.brown.edu/people/faculty/amy/) on topics in algorithmic game theory and reinforcement learning.
 
 I am also a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models; [StateSpaceRoutines.jl](https://github.com/FRBNY-DSGE/StateSpaceRoutines.jl), which contains common filtering and smoothing algorithms for state-space models; and [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements variations of sequential Monte Carlo (SMC) sampling for the approximation of posterior distributions.
 
